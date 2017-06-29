@@ -3,16 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Dao.java" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>j</mask>
-      <mask>js</mask>
-      <mask>*js</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.j</mask>
-      <mask>*.jsp</mask>
       <mask>*.js*</mask>
       <mask>*.js*.</mask>
       <mask>*.r</mask>
@@ -29,11 +21,20 @@
       <mask>*gradle</mask>
       <mask>*gradle*</mask>
       <mask>8</mask>
-      <mask>*</mask>
       <mask>*.ㅓㄴ</mask>
       <mask>*.ㅓ</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*d</mask>
+      <mask>*da</mask>
+      <mask>*dao</mask>
+      <mask>*dao.</mask>
+      <mask>*dao.j</mask>
+      <mask>*dao.ja</mask>
+      <mask>*dao.java</mask>
+      <mask>*ao.java</mask>
+      <mask>*Dao.java</mask>
     </recentFileMasks>
   </component>
 </application>
