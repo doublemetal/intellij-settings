@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Repository.java" />
     <recentFileMasks>
-      <mask>*.js*</mask>
-      <mask>*.js*.</mask>
-      <mask>*.r</mask>
-      <mask>*.rp</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.prot</mask>
-      <mask>*.pro</mask>
-      <mask>*.proper</mask>
-      <mask>*.properties</mask>
-      <mask>g</mask>
       <mask>gra</mask>
       <mask>gradle</mask>
       <mask>*gradle</mask>
@@ -34,6 +24,17 @@
       <mask>*dao.java</mask>
       <mask>*ao.java</mask>
       <mask>*Dao.java</mask>
+      <mask>*Re.java</mask>
+      <mask>*Rep.java</mask>
+      <mask>*Repo.java</mask>
+      <mask>*Reposit.java</mask>
+      <mask>*Repos.java</mask>
+      <mask>*Reposi.java</mask>
+      <mask>*Repositoyy.java</mask>
+      <mask>*Repositoy.java</mask>
+      <mask>*Reposito.java</mask>
+      <mask>*Repositor.java</mask>
+      <mask>*Repository.java</mask>
     </recentFileMasks>
   </component>
 </application>
