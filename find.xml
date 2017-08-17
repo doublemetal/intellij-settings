@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*css" />
     <recentFileMasks>
-      <mask>*.ㅓ</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*</mask>
-      <mask>*d</mask>
-      <mask>*da</mask>
-      <mask>*dao</mask>
       <mask>*dao.</mask>
       <mask>*dao.j</mask>
       <mask>*dao.ja</mask>
@@ -34,6 +28,13 @@
       <mask>*enti.java</mask>
       <mask>*entit.java</mask>
       <mask>*entity.java</mask>
+      <mask>cc</mask>
+      <mask>ss</mask>
+      <mask>s</mask>
+      <mask>c</mask>
+      <mask>cs</mask>
+      <mask>css</mask>
+      <mask>*css</mask>
     </recentFileMasks>
   </component>
 </application>
