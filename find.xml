@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*api*" />
     <recentFileMasks>
-      <mask>*dao.java</mask>
-      <mask>*ao.java</mask>
-      <mask>*Dao.java</mask>
       <mask>*Re.java</mask>
       <mask>*Rep.java</mask>
       <mask>*Repo.java</mask>
@@ -31,9 +29,12 @@
       <mask>cs</mask>
       <mask>css</mask>
       <mask>*css</mask>
-      <mask>*</mask>
       <mask>*common</mask>
       <mask>*common*</mask>
+      <mask>*</mask>
+      <mask>*ap</mask>
+      <mask>*api</mask>
+      <mask>*api*</mask>
     </recentFileMasks>
   </component>
 </application>
