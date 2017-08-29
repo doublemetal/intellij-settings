@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*Re.java</mask>
-      <mask>*Rep.java</mask>
-      <mask>*Repo.java</mask>
       <mask>*Reposit.java</mask>
       <mask>*Repos.java</mask>
       <mask>*Reposi.java</mask>
@@ -30,10 +28,13 @@
       <mask>*css</mask>
       <mask>*common</mask>
       <mask>*common*</mask>
-      <mask>*</mask>
       <mask>*ap</mask>
       <mask>*api</mask>
       <mask>*api*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
