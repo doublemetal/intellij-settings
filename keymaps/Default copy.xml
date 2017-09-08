@@ -1,5 +1,0 @@
-<keymap version="1" name="Default copy" parent="$default">
-  <action id="ExternalSystem_cb5a9b8cwebdf6ec00abuildJs">
-    <keyboard-shortcut first-keystroke="ctrl alt w" />
-  </action>
-</keymap>
