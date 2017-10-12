@@ -15,14 +15,10 @@
       <mask>*ap</mask>
       <mask>*api*</mask>
       <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*</mask>
       <mask>*api.</mask>
       <mask>*api</mask>
       <mask>*.</mask>
-      <mask>*.jsp</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
@@ -34,6 +30,10 @@
       <mask>gradle</mask>
       <mask>gradle*</mask>
       <mask>*gradle*</mask>
+      <mask>*</mask>
+      <mask>*.html</mask>
+      <mask>*.j</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
