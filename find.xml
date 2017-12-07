@@ -3,37 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Repository.java" />
     <recentFileMasks>
-      <mask>*ap</mask>
-      <mask>*api*</mask>
-      <mask>*.h</mask>
-      <mask>*api.</mask>
-      <mask>*api</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>g</mask>
-      <mask>gr</mask>
-      <mask>gra</mask>
       <mask>grad</mask>
       <mask>gradl</mask>
       <mask>gradle</mask>
       <mask>gradle*</mask>
       <mask>*gradle*</mask>
-      <mask>*</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>.</mask>
       <mask>.xml</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*R</mask>
+      <mask>*Re</mask>
+      <mask>*Rep</mask>
+      <mask>*Repo</mask>
+      <mask>*Reposit</mask>
+      <mask>*Reposi</mask>
+      <mask>*Reposito</mask>
+      <mask>*Repositor</mask>
+      <mask>*Repository</mask>
+      <mask>*Repository.</mask>
+      <mask>*Repository.java</mask>
     </recentFileMasks>
   </component>
 </application>
