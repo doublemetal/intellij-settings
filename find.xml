@@ -23,17 +23,17 @@
       <mask>*Repository</mask>
       <mask>*Repository.</mask>
       <mask>*Repository.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
