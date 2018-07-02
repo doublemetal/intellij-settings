@@ -7,7 +7,6 @@
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="phantomjs-linux" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
-      <mapping ext="adoc" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="xlsm" type="PLAIN_TEXT" />
