@@ -3,23 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*Repository</mask>
-      <mask>*Repository.</mask>
-      <mask>*Repository.java</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*t.java</mask>
-      <mask>*test.java</mask>
-      <mask>'*'</mask>
-      <mask>''</mask>
       <mask>*.jsp</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.jaa</mask>
       <mask>*.jav</mask>
       <mask>*.js</mask>
@@ -34,6 +22,19 @@
       <mask>*T.java</mask>
       <mask>*Te.java</mask>
       <mask>*Test.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pro</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
