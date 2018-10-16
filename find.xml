@@ -12,8 +12,8 @@
     <mask>*scss</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*dao.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
