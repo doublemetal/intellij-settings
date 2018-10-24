@@ -4,16 +4,18 @@
     <property name="created">2017-04-15T16:27:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-04-15T16:36:15</property>
+    <property name="modified">2018-10-24T11:41:37</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="NanumGothicCoding" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
 </scheme>
