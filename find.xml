@@ -10,10 +10,10 @@
     <mask>*.jsp</mask>
     <mask>*.gradle</mask>
     <mask>*scss</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*dao.java</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
