@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="vw" type="PLAIN_TEXT" />
-      <mapping pattern="test1" type="PLAIN_TEXT" />
-      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="phantomjs-linux" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="pkg" type="PLAIN_TEXT" />
       <mapping ext="xlsm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
