@@ -16,5 +16,6 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*Repository.java</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
