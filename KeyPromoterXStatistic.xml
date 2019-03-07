@@ -286,7 +286,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>54</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -310,7 +310,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>173</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
     </option>
