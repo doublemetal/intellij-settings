@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -30,6 +30,22 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="DDL">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.Grid.DDL</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Home'</ShortCut>
+          <Description>DDL</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Database Tools...">
+        <Item>
+          <IdeaActionID>DatabaseView.ToolsPopup</IdeaActionID>
+          <ShortCut>'Alt+Enter'</ShortCut>
+          <Description>Database Tools...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -110,7 +126,31 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>5</Count>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate DDL to Clipboard">
+        <Item>
+          <IdeaActionID>DatabaseView.CopyDdlAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+C'</ShortCut>
+          <Description>Generate DDL to Clipboard</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate DDL to Console">
+        <Item>
+          <IdeaActionID>DatabaseView.OpenDdlInConsole</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
+          <Description>Generate DDL to Console</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate...">
+        <Item>
+          <IdeaActionID>Generate</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>Generate...</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -142,7 +182,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -151,6 +191,14 @@
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Modify Table...">
+        <Item>
+          <IdeaActionID>ModifyObject</IdeaActionID>
+          <ShortCut>'Ctrl+F6'</ShortCut>
+          <Description>Modify Table...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -249,6 +297,22 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="SQL Generator...">
+        <Item>
+          <IdeaActionID>DatabaseView.SqlGenerator</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+G'</ShortCut>
+          <Description>SQL Generator...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Source Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Source Editor</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'build &amp; restart'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -286,7 +350,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -310,7 +374,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>189</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
     </option>
