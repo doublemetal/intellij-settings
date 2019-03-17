@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>151</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -214,7 +214,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Table...">
@@ -406,7 +406,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>239</Count>
+          <Count>240</Count>
         </Item>
       </Statistic>
     </option>
