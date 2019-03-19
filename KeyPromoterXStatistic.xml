@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>183</Count>
+          <Count>184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'build &amp; restart'">
@@ -262,7 +262,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'build &amp; restart'</Description>
-          <Count>145</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'build-restart-admin'">
