@@ -22,7 +22,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'Ctrl+M' or 'Ctrl+E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>227</Count>
+          <Count>232</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>227</Count>
+          <Count>230</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'build &amp; restart'">
@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -278,7 +278,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'build &amp; restart'</Description>
-          <Count>167</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'build-restart-admin'">
@@ -334,7 +334,7 @@
           <IdeaActionID>Git.Reword.Commit</IdeaActionID>
           <ShortCut>'F2' or 'Shift+F6'</ShortCut>
           <Description>Reword...</Description>
-          <Count>23</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'clean'">
@@ -374,7 +374,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'build &amp; restart'</Description>
-          <Count>42</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'build-restart-admin'">
@@ -446,7 +446,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>340</Count>
+          <Count>343</Count>
         </Item>
       </Statistic>
     </option>
