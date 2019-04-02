@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>258</Count>
+          <Count>261</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'build &amp; restart'">
@@ -150,7 +150,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>6</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -174,7 +174,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>173</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -302,7 +302,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'build &amp; restart'</Description>
-          <Count>184</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'build-restart-admin'">
@@ -342,7 +342,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>678</Count>
+          <Count>685</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -430,7 +430,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>65</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -454,7 +454,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>493</Count>
+          <Count>505</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'build  restart' application">
@@ -470,7 +470,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>413</Count>
+          <Count>415</Count>
         </Item>
       </Statistic>
     </option>
