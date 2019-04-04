@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>303</Count>
+          <Count>304</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>297</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'build &amp; restart'">
@@ -342,7 +342,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>764</Count>
+          <Count>770</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -454,7 +454,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>559</Count>
+          <Count>563</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'build  restart' application">
@@ -470,7 +470,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>446</Count>
+          <Count>447</Count>
         </Item>
       </Statistic>
     </option>
