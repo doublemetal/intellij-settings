@@ -13,10 +13,10 @@
     <mask>*Repository.java</mask>
     <mask>*.scss</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*Controller.java</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
