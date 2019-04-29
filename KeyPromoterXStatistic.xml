@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>382</Count>
+          <Count>383</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>370</Count>
+          <Count>371</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'build &amp; restart'">
@@ -310,7 +310,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'build &amp; restart'</Description>
-          <Count>259</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'build-restart-admin'">
@@ -350,7 +350,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>971</Count>
+          <Count>983</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -430,7 +430,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'build &amp; restart'</Description>
-          <Count>61</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'build-restart-admin'">
@@ -486,7 +486,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>731</Count>
+          <Count>741</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'build  restart' application">
@@ -502,7 +502,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>588</Count>
+          <Count>591</Count>
         </Item>
       </Statistic>
     </option>
