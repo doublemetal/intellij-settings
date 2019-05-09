@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>412</Count>
+          <Count>414</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>390</Count>
+          <Count>391</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'build &amp; restart'">
@@ -318,7 +318,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'build-restart-admin'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart'">
@@ -366,7 +366,7 @@
           <IdeaActionID>Git.Reword.Commit</IdeaActionID>
           <ShortCut>'F2' or 'Shift+F6'</ShortCut>
           <Description>Reword...</Description>
-          <Count>32</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -494,7 +494,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>631</Count>
+          <Count>633</Count>
         </Item>
       </Statistic>
     </option>
