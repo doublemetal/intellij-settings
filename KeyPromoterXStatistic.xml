@@ -105,14 +105,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'build &amp; restart'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'build &amp; restart'</Description>
-          <Count>45</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'build-restart-admin'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -254,7 +246,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -497,6 +489,14 @@
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
           <Count>393</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'build &amp; restart'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'build &amp; restart'</Description>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'build &amp; restart'">
