@@ -105,20 +105,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug">
-        <Item>
-          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
-          <ShortCut>'Alt+5'</ShortCut>
-          <Description>Debug</Description>
-          <Count>392</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'build &amp; restart'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'build &amp; restart'</Description>
-          <Count>43</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'build-restart-admin'">
@@ -494,11 +486,19 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>636</Count>
+          <Count>637</Count>
         </Item>
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>393</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'build &amp; restart'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
