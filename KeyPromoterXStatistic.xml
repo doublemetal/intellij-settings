@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Into">
@@ -318,7 +318,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>57</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reword...">
@@ -399,14 +399,6 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'restart-admin'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Submit">
-        <Item>
-          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
-          <ShortCut>'Ctrl+Enter'</ShortCut>
-          <Description>Submit</Description>
-          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -519,6 +511,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'build-restart-admin'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Submit</Description>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
