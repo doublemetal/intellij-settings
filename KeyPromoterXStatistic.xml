@@ -435,6 +435,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Close All">
+        <Item>
+          <IdeaActionID>CloseAllEditors</IdeaActionID>
+          <Description>Close All</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Close Others">
         <Item>
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
