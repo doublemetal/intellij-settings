@@ -438,7 +438,7 @@
           <IdeaActionID>UpdateRunningApplication</IdeaActionID>
           <ShortCut>'Ctrl+F10'</ShortCut>
           <Description>Update 'build  restart' application</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
     </option>
