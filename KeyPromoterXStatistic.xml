@@ -97,14 +97,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'build-restart-admin'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'build-restart-admin'</Description>
-          <Count>20</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'clean'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -469,6 +461,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'build &amp; restart'</Description>
           <Count>46</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'build-restart-admin'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'build-restart-admin'</Description>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
