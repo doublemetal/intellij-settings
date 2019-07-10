@@ -16,7 +16,7 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*Controller.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
