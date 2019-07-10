@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SalesCenterApiControllerTest.GET_REQUEST_IS_ERROR'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'SalesCenterApiControllerTest.GET_REQUEST_IS_ERROR'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'clean'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
