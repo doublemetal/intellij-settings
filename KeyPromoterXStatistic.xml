@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'SalesCenterApiControllerTest.GET_REQUEST_IS_ERROR'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'clean'">
@@ -302,6 +302,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'CertificationKeyBOTest.createCertificationKeyWithDefaultInterval'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SalesCenterApiControllerTest.GET_REQUEST_IS_ERROR'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SalesCenterApiControllerTest.GET_REQUEST_IS_ERROR'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
