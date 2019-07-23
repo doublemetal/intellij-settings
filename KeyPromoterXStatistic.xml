@@ -326,7 +326,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'package-restart-admin'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart'">
@@ -487,6 +487,14 @@
           <ShortCut>'Ctrl+F10'</ShortCut>
           <Description>Update 'build  restart' application</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update 'package-restart-admin' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'Ctrl+F10'</ShortCut>
+          <Description>Update 'package-restart-admin' application</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
