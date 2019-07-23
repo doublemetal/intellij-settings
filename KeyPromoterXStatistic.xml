@@ -214,7 +214,7 @@
           <IdeaActionID>DatabaseView.OpenDdlInConsole</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
           <Description>Generate DDL to Console</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
