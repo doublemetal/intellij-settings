@@ -33,6 +33,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Commit">
+        <Item>
+          <IdeaActionID>Console.Transaction.Commit</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+Enter'</ShortCut>
+          <Description>Commit</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit Message History">
         <Item>
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
@@ -174,7 +182,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>462</Count>
+          <Count>465</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -334,7 +342,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'package-restart-admin'</Description>
-          <Count>29</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart'">
