@@ -9,7 +9,6 @@
     <mask>*.gradle</mask>
     <mask>*scss</mask>
     <mask>*.html</mask>
-    <mask>*dao.java</mask>
     <mask>*Repository.java</mask>
     <mask>*.scss</mask>
     <mask>*.jsp</mask>
@@ -18,5 +17,6 @@
     <mask>*.js</mask>
     <mask>*Controller.java</mask>
     <mask>*.xml</mask>
+    <mask>*dao.java</mask>
   </component>
 </application>
