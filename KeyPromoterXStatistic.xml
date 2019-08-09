@@ -158,7 +158,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>65</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -182,7 +182,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>511</Count>
+          <Count>516</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -422,6 +422,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'restart-admin'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run to Cursor">
+        <Item>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'Alt+F9'</ShortCut>
+          <Description>Run to Cursor</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
