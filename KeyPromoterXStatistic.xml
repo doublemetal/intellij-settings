@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'package-restart-admin'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'restart'">
@@ -182,7 +182,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>521</Count>
+          <Count>540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -295,6 +295,14 @@
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Next Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Down'</ShortCut>
+          <Description>Next Page</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -470,7 +478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'package-restart-admin'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'restart'">
