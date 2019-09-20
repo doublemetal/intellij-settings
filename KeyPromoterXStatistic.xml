@@ -206,7 +206,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>576</Count>
+          <Count>577</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
