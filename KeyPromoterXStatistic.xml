@@ -689,6 +689,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Update 'build-restart-admin' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'Ctrl+F10'</ShortCut>
+          <Description>Update 'build-restart-admin' application</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Update 'package-restart-admin' application">
         <Item>
           <IdeaActionID>UpdateRunningApplication</IdeaActionID>
