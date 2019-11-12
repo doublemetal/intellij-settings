@@ -62,7 +62,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'Ctrl+M' or 'Ctrl+E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>139</Count>
+          <Count>140</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
