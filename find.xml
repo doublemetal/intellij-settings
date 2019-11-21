@@ -11,12 +11,12 @@
     <mask>*.html</mask>
     <mask>*Repository.java</mask>
     <mask>*.scss</mask>
-    <mask>*.properties</mask>
     <mask>*Controller.java</mask>
     <mask>*dao.java</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
