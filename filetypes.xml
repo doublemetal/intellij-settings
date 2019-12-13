@@ -4,6 +4,8 @@
       <mapping pattern="vw" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="initial" type="PLAIN_TEXT" />
+      <mapping pattern="xlsx" type="PLAIN_TEXT" />
+      <mapping pattern="csv" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="phantomjs-linux" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
