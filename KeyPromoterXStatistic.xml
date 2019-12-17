@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'restart'</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'restart-admin'">
@@ -238,7 +238,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>780</Count>
+          <Count>784</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -494,7 +494,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'restart'</Description>
-          <Count>167</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart-admin'">
@@ -694,7 +694,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'restart'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'restart-admin'">
