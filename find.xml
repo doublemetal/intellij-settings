@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'lpmrc'" />
-    <option name="defaultScopeName" value="Project 'lpmrc'" />
-    <option name="SEARCH_SCOPE" value="Project 'lpmrc'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
