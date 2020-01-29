@@ -494,7 +494,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'restart'</Description>
-          <Count>206</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart-admin'">
@@ -518,7 +518,7 @@
           <IdeaActionID>Git.Reword.Commit</IdeaActionID>
           <ShortCut>'F2' or 'Shift+F6'</ShortCut>
           <Description>Reword...</Description>
-          <Count>75</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Row...">
