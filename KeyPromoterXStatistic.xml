@@ -230,7 +230,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>839</Count>
+          <Count>852</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -318,7 +318,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>57</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -494,7 +494,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'restart'</Description>
-          <Count>243</Count>
+          <Count>247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart-admin'">
