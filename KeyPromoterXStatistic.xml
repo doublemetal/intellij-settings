@@ -54,7 +54,7 @@
           <IdeaActionID>Console.Transaction.Commit</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Enter'</ShortCut>
           <Description>Commit</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -198,7 +198,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -230,7 +230,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>907</Count>
+          <Count>908</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
