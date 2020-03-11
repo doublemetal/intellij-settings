@@ -393,6 +393,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Optimize Imports">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+O'</ShortCut>
+          <Description>Optimize Imports</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
@@ -430,7 +438,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'Ctrl+Alt+L'</ShortCut>
           <Description>Reformat Code</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
