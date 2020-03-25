@@ -230,7 +230,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>921</Count>
+          <Count>924</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -473,6 +473,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LineAtInternalApiBOTest.Display_Name_가져오는_테스트'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'LineAtInternalApiBOTest.Display_Name_가져오는_테스트'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SalesCenterApiControllerTest.GET_REQUEST_IS_ERROR'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -502,7 +510,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'restart'</Description>
-          <Count>378</Count>
+          <Count>379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart-admin'">
