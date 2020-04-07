@@ -230,7 +230,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>978</Count>
+          <Count>980</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -510,7 +510,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'restart'</Description>
-          <Count>422</Count>
+          <Count>423</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart-admin'">
