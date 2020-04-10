@@ -510,7 +510,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'restart'</Description>
-          <Count>435</Count>
+          <Count>436</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart-admin'">
@@ -806,7 +806,7 @@
           <IdeaActionID>UpdateRunningApplication</IdeaActionID>
           <ShortCut>'Ctrl+F10'</ShortCut>
           <Description>Update 'restart' application</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
