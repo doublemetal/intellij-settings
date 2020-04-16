@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="vw" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="initial" type="PLAIN_TEXT" />
       <mapping pattern="xlsx" type="PLAIN_TEXT" />
       <mapping pattern="csv" type="PLAIN_TEXT" />
