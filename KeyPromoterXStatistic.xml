@@ -489,6 +489,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CommissionBulkUpdateBatchBOTest.대행사가_없는_가맹점'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'CommissionBulkUpdateBatchBOTest.대행사가_없는_가맹점'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LineAtInternalApiBOTest.Display_Name_가져오는_테스트'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -711,6 +719,14 @@
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Source Editor</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CommissionBulkUpdateBatchBOTest.대행사가_없는_가맹점'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'CommissionBulkUpdateBatchBOTest.대행사가_없는_가맹점'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'build'">
