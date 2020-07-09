@@ -542,7 +542,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'restart'</Description>
-          <Count>724</Count>
+          <Count>725</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart-admin'">
