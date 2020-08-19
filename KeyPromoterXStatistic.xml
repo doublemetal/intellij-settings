@@ -529,6 +529,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'lpmrc-admin [package]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'lpmrc-admin [package]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'package-restart-admin'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -542,7 +550,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'restart'</Description>
-          <Count>922</Count>
+          <Count>924</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart-admin'">
