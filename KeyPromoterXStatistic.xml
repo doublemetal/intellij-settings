@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add New Row">
@@ -550,7 +550,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'restart'</Description>
-          <Count>953</Count>
+          <Count>954</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'restart-admin'">
@@ -694,7 +694,7 @@
           <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
           <ShortCut>'Alt+Shift+A'</ShortCut>
           <Description>Show All Affected Files</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram Popup...">
