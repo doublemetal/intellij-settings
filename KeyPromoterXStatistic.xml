@@ -62,7 +62,7 @@
           <IdeaActionID>Console.Transaction.Commit</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Enter'</ShortCut>
           <Description>Commit</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
